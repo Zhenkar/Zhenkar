@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuring my Engineering in CS <br>👯 I’m looking to collaborate on projects based on cloud<br>🌱 I’m currently learning AWS <br>💬 Ask me about Cloud Computing<br>⚡ Fun fact - nothing ever goes as planned
+🔭 I’m currently pursuring my Engineering in CS <br>⚡ Fun fact - nothing ever goes as planned
 
 
 ## 🌐 Socials:
